@@ -12,6 +12,15 @@ html {
 body {
   margin: 0;
 }
+
+h1 {
+  font-family: "Rock Salt", cursive;
+}
+
+h2 {
+  font-family: "Catamaran", sans-serif;
+  font-size: 60%
+}
 article,
 aside,
 details,
