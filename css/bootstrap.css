@@ -12,14 +12,23 @@ html {
 body {
   margin: 0;
 }
-
+#toprow {
+  background-color: lightcyan;
+}
+#secondrow {
+  background-color: #ffee58;
+}
 h1 {
   font-family: "Rock Salt", cursive;
 }
 
 h2 {
   font-family: "Catamaran", sans-serif;
-  font-size: 10px;
+  font-size: 18px;
+}
+#slogan {
+  font-family: "Catamaran", sans-serif;
+  font-size: 15px;
 }
 article,
 aside,
@@ -4967,12 +4976,17 @@ a.badge:focus {
   margin-left: 3px;
 }
 .jumbotron {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  margin-bottom: 30px;
-  width: 30px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-bottom: 50px;
   color: inherit;
-  background-color: #eee;
+  background-color: lightcyan;
+}
+#searchbox{
+  padding-top: 50px;
+}
+#boxlength{
+  width: 260px;
 }
 .jumbotron h1,
 .jumbotron .h1 {
