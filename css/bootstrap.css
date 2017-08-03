@@ -12,6 +12,15 @@ html {
 body {
   margin: 0;
 }
+
+.form-group{
+  float:left;
+}
+
+.container-fluid{
+  position: relative;
+}
+
 #toprow {
   background-color: lightcyan;
 }
