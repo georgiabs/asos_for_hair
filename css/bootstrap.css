@@ -12,6 +12,21 @@ html {
 body {
   margin: 0;
 }
+
+.socialButtons{
+  width: 100%;
+  margin-top: 30px;
+
+}
+
+.form-group{
+  float:left;
+}
+
+.container-fluid{
+  position: relative;
+}
+
 #toprow {
   background-color: lightcyan;
 }
@@ -4986,7 +5001,7 @@ a.badge:focus {
   padding-top: 50px;
 }
 #boxlength{
-  width: 260px;
+  width: 200px;
 }
 .jumbotron h1,
 .jumbotron .h1 {
