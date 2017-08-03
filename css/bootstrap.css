@@ -16,6 +16,7 @@ body {
 .socialButtons{
   width: 100%;
   margin-top: 30px;
+
 }
 
 .form-group{
@@ -5000,7 +5001,7 @@ a.badge:focus {
   padding-top: 50px;
 }
 #boxlength{
-  width: 260px;
+  width: 200px;
 }
 .jumbotron h1,
 .jumbotron .h1 {
