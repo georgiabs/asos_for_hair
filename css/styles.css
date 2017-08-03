@@ -1,0 +1,20 @@
+/*header{
+  color: red;
+  text-align: center;
+}*/
+.header{
+  background-color: #FFF3BC;
+  text-align: center;
+
+h1 {
+  font-family: Rock Salt;
+  color: #3c3c3c
+}
+
+p {
+  color: #3c3c3c
+}
+
+#container {overflow: hidden;}
+#floated-imgs {float:left;}
+#floated-imgs img{display: block;}
